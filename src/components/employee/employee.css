@@ -1,0 +1,23 @@
+/*  Employee Page CSS */
+.employee-maindiv {
+    flex-grow: 1;
+    overflow: auto;
+}
+
+.employee-form {
+    margin-top: 60px;
+}
+
+.header-center {
+    text-align: center;
+}
+
+.padding-table-maindiv {
+    padding: 0 50px;
+    overflow: auto;
+    overflow: scroll;
+}
+
+.table-div-margin {
+    margin-top: 60px;
+}

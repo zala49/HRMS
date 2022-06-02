@@ -1,0 +1,40 @@
+.formcontrol {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 15px;
+    background: blue;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    margin: auto;
+}
+
+.formheading {
+    color: white;
+    font-size: 50px;
+}
+
+.login {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.input {
+    width: 300px;
+    padding: 2px;
+}
+
+.submit {
+    width: 300px;
+}
